@@ -1,0 +1,39 @@
+Motion Control WS at the EPICS collaboration meeting April 2025
+@ ISIS Neutron and Muon Source
+
+This session will be held in person and remote:
+"We like to move it"
+
+This is a raw version an agenda, suggestions are welcome:
+mailto:torsten.bogershausen@ess.eu
+
+- Welcome everybody: opening of the WS
+- Round table presentations,
+  Who is who and doing what ?
+  Special interests, experiences, questions ?
+
+- Presentations
+  (Who ever wants to present, examples for topics)
+  What motors do you use ?
+    Stepper, Servo, Piezo, others ?
+  Which controllers do you use ?
+  Which controllers do you want to use ?
+  Interesting applications ?
+  Experiences with certain HW, SW ?
+  Timing system: Connected to motion control ?
+
+- Status @ ESS, patches:
+  - Patches in motor module
+  - EtherCAT hardware: TwinCAT and ecmc
+  - other interesting things
+
+- motorRecord / EPICS motor module (round table)
+  fixes at your site,
+  limitations,
+  problems,
+  wishes
+
+- Open discussions
+
+Welcome!
+mailto:torsten.bogershausen@ess.eu
